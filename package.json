@@ -1,0 +1,23 @@
+{
+  "name": "ajs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meg-mila/ajs-node.git"
+  },
+  "author": "Margarita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meg-mila/ajs-node/issues"
+  },
+  "homepage": "https://github.com/Meg-mila/ajs-node#readme",
+  "dependencies": {
+    "@meg-mila/ajs": "^1.0.0"
+  }
+}
